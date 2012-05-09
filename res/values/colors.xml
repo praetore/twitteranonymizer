@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#444445</color>
+    <color name="bar_dark">#FFFFFF</color>
+    <color name="bar_select_dark">#009CCC</color>
+    
+</resources>
